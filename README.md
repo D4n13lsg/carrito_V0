@@ -4,6 +4,8 @@ Nombre:Daniel felipe Sanchez guevara
 
 ultima modificacion:27/06/2022
 
+ficha:2470980
+
 esta es la version de carrito de compras Versionado 0 esta version nos pide que digitemos el nombre por medio de una alerta despues nos mostrara otra alerta con los productos que tenemos disponibles podemos seleccionar 1,2,3 para porder comprar algo nos piden cuantas prendas vamos a comprar y nos saca la factura.
 
 ![image](https://user-images.githubusercontent.com/101757213/176046873-3aca3e91-f147-4741-a324-e404f687ab0e.png)
